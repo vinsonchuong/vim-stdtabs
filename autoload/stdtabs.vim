@@ -8,3 +8,5 @@ if exists("g:loaded_stdtabs")
   finish
 endif
 let g:loaded_stdtabs = 1
+
+set expandtab tabstop=2 shiftwidth=2 softtabstop=2
